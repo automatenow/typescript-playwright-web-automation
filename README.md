@@ -71,7 +71,7 @@ import { test, expect } from '@playwright/test';
 
 test('has title', async ({ page }) => {
   await page.goto('https://automateNow.io');
-  await expect(page).toHaveTitle(/Example Domain/);
+  await expect(page).toHaveTitle('automateNow');
 });
 ```
 
