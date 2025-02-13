@@ -6,8 +6,6 @@ This repository was created by [Marco A. Cruz](http://www.linkedin.com/in/marco-
 
 Visit automateNow's [TypeScript Playwright playlist](https://youtube.com/playlist?list=PLjfhFHeUQDOi4HhD5dfXYasFn6mXbqbux&si=OMzjXF4ZI3_bsM29) on YouTube to follow along.
 
-Want more? **Visit the [automateNow homepage](https://automatenow.io/) for more great tutorials!**
-
 # Overview
 This project aims to teach the fundamentals of using Playwright for software test automation.
 
@@ -78,6 +76,5 @@ test('has title', async ({ page }) => {
 ### License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-### Acknowledgments
-- Inspiration from Playwright's official documentation
-- Thanks to the TypeScript and Playwright communities for their work.
+## About automateNow
+[automateNow](https://automatenow.io/) is a leading learning platform catering to the needs of software testers. We are dedicated to empowering testers with the necessary skills and resources to excel in test automation and beyond.
